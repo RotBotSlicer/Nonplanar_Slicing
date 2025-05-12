@@ -61,7 +61,7 @@ pip install shapely==2.0.1
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Run main.py (main_Mac.py on Mac computers) to open the GUI. 
+Run main.py (main_Mac.py on Mac computers, main_Linux.py on Linux computers) to open the GUI. 
 
 Select your .stl file and the .ini config file (directly exported from Prusaslicer -> Ctrl + E)
 
