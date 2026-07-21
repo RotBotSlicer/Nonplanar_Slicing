@@ -48,7 +48,7 @@ if __name__ == "__main__":
     transform_method = 'mirror'
 
 
-    # Interupthandling if a button or similiar is activated
+    # Interupthandling if a button or similar is activated
     def stl_chosen(sender, app_data, user_data):
         stl_dir = app_data["file_path_name"]
         dpg.set_value("checkbox_cad", False)
